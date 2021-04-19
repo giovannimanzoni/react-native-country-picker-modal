@@ -34,7 +34,7 @@
     "subregion": "Southern Europe",
     "flag": "flag-al",
     "name": {
-      "common": "Albania",
+      "common": "Shqiptare",
       "ces": "Albánie",
       "cym": "Albania",
       "deu": "Albanien",
@@ -2142,7 +2142,7 @@
     "subregion": "",
     "flag": "flag-tf",
     "name": {
-      "common": "French Southern and Antarctic Lands",
+      "common": "Francese",
       "ces": "Francouzská jižní a antarktická území",
       "deu": "Französische Süd- und Antarktisgebiete",
       "fra": "Terres australes et antarctiques françaises",
@@ -2250,7 +2250,7 @@
     "subregion": "Western Europe",
     "flag": "flag-de",
     "name": {
-      "common": "Germany",
+      "common": "Deutsche",
       "ces": "Německo",
       "deu": "Deutschland",
       "fra": "Allemagne",
@@ -2951,7 +2951,7 @@
     "subregion": "Southern Europe",
     "flag": "flag-it",
     "name": {
-      "common": "Italy",
+      "common": "Italiano",
       "ces": "Itálie",
       "deu": "Italien",
       "fra": "Italie",
@@ -4921,7 +4921,7 @@
     "subregion": "Eastern Europe",
     "flag": "flag-ro",
     "name": {
-      "common": "Romania",
+      "common": "Română",
       "ces": "Rumunsko",
       "deu": "Rumänien",
       "fra": "Roumanie",
@@ -5676,7 +5676,7 @@
     "subregion": "Southern Europe",
     "flag": "flag-es",
     "name": {
-      "common": "Spain",
+      "common": "Español",
       "ces": "Španělsko",
       "deu": "Spanien",
       "fra": "Espagne",
@@ -6377,7 +6377,7 @@
     "subregion": "Northern Europe",
     "flag": "flag-gb",
     "name": {
-      "common": "United Kingdom",
+      "common": "English",
       "ces": "Spojené království",
       "deu": "Vereinigtes Königreich",
       "fra": "Royaume-Uni",
